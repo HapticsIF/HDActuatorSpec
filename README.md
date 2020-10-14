@@ -1,4 +1,4 @@
-# High Definition ActuatorSpec
+# High Definition Actuator Specification
 
 Consumer devices increasingly utilize haptics as part of the core user experience. This has increased awareness of the value of haptic feedback as well as increased understanding by consumers that not all haptic experiences are the same. Among device manufacturers and component suppliers, there is a lack of standardization of the key technical specifications that impact the haptic performance of a given actuator component. 
 
